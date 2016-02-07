@@ -1,4 +1,8 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://tavriaforever@bitbucket.org/tavriaforever/mega-downloader.git"
+  },
   "name": "mega-loader",
   "version": "1.0.0",
   "description": "",
